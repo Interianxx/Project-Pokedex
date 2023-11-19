@@ -19,6 +19,8 @@ Este proyecto utiliza las siguientes dependencias_
 Asegúrate de tener estas dependencias instaladas antes de ejecutar el proyecto, aunque ya esten agregadas en el archivo pom.xml.
 
 ## Librerias
+Este proyecto utiliza estas 3 librerias que son importantes para el ordenamiento
+
 - Quicksort: El Quicksort es un algoritmo de ordenamiento eficiente que se basa en la técnica de "divide y vencerás". En esta Pokedex, se utiliza para ordenar los Pokémon según ciertas caracteristicas.
 - Collections: La clase `Collections` proporciona un método `sort` que se utiliza para ordenar la lista de Pokémon. Esta función se aplica, por ejemplo, al ordenar los resultados de la búsqueda por nombre.
 - Arrays: la clase `Arrays` también proporciona un método `sort` que se utiliza para ordenar arrays, aunque en este caso se prefiere la utilización de `Collections.sort()` para listas.

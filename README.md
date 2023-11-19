@@ -10,17 +10,21 @@ Este proyecto consiste en una base de datos creada desde la PokeAPI, con informa
 - Buscar pokemon por Nombre. Escriba el nombre del pokemon con total exactitud y 
 - Ordenar las estadisticas de los pokemons
 
+## Dependencias 
+Este proyecto utiliza las siguientes dependencias_
+
+- [opencsv](https://github.com/opencsv/opencsv): Biblioteca para leer y escribir archivos CSV en Java.
+- [Apache Commons Lang3](https://commons.apache.org/proper/commons-lang/): Biblioteca de utilidades generales para Java.
+
+Asegúrate de tener estas dependencias instaladas antes de ejecutar el proyecto, aunque ya esten agregadas en el archivo pom.xml.
 ## Requerimientos
 
 - Tener instalado la JVM en tu equipo (Java Virtual Machine)
 - Si quieres editar el código, te recomendamos usar el IDE Netbeans, y tener instalado el JDK (Java Development Kit). Sugerimos utilizar Netbeans para poder visualizar el funcionamiento de codigo.
-- Es necesario que una vez agregado el proyecto a netbeans se ejecute "clean and build project" para que se instalen las dependencias necesarias. Si se desean instalar manualmente estas son las dependencias:
-opencsv-5.5.2.jar
-- Librerias...
-- Nota adicional: El metodo main se ubica en la clase PokemonDatabase.java
+- Es necesario que una vez agregado el proyecto a netbeans se ejecute "clean and build project" para que se instalen las dependencias necesarias. 
 
 ## El programa en funcionamiento
-Seleccione la opcion 1 para buscar pokemon por no. de pokedex. El numero debe ser del 1 al 1000.
+Seleccione la opcion 1 para buscar pokemon por no. de pokedex. El numero debe ser del 1 al 1017.
 
 ![sys](https://i.imgur.com/UCPNNyD.png)
 

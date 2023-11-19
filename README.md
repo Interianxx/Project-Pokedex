@@ -39,4 +39,4 @@ Descargue el proyecto en un zip. Abre Netbeans y en la opcion de Archivo selecci
 
 ## Mejoras posibles
 
-Por tiempo, algunas funcionalidades extra no se han implementado. Entre ellas, está la de guardar todo el stock en un archivo para que al abrir de nuevo el programa, este refleje la información de dicho archivo. Tambien es necesario que el usuario acceda a la carpeta donde esta ubicado el programa para acceder a los reportes.
+

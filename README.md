@@ -22,7 +22,7 @@ opencsv-5.5.2.jar
 ## El programa en funcionamiento
 Seleccione la opcion 1 para buscar pokemon por no. de pokedex. El numero debe ser del 1 al 1000.
 
-![sys](https://imgur.com/WuGSFY1.png)
+![sys](https://i.imgur.com/UCPNNyD.png)
 
 Seleccione la opcion 2 para buscar un pokemon por su nombre, es necesario que se introduzca su nombre con total exactitud para poder encontrarlo. 
 

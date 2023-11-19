@@ -26,7 +26,7 @@ Seleccione la opcion 1 para buscar pokemon por no. de pokedex. El numero debe se
 
 Seleccione la opcion 2 para buscar un pokemon por su nombre, es necesario que se introduzca su nombre con total exactitud para poder encontrarlo. 
 
-![sys](https://imgur.com/nWGOBZM.png)
+![sys](https://i.imgur.com/2rlOx3y.png)
 Seleccione la opcion 3 ordenar a los pokemon de acuerdo a sus estadisticas. Primero seleccione la estadistica que quiere utilizar como parametro de ordenamiento. Despues seleccione si quiere ver el ordenamiento de forma ascendente o descendente.
 
 ![sys](https://imgur.com/S2wI4My.png)

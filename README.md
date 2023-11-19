@@ -21,7 +21,7 @@ Asegúrate de tener estas dependencias instaladas antes de ejecutar el proyecto,
 
 - Tener instalado la JVM en tu equipo (Java Virtual Machine)
 - Si quieres editar el código, te recomendamos usar el IDE Netbeans, y tener instalado el JDK (Java Development Kit). Sugerimos utilizar Netbeans para poder visualizar el funcionamiento de codigo.
-- Es necesario que una vez agregado el proyecto a netbeans se ejecute "clean and build project" para que se instalen las dependencias necesarias. 
+- Es necesario que una vez agregado el proyecto a netbeans se ejecute "clean and build project" para que se reconozcan las dependencias necesarias. 
 
 ## El programa en funcionamiento
 Seleccione la opcion 1 para buscar pokemon por no. de pokedex. El numero debe ser del 1 al 1017.

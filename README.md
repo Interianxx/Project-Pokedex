@@ -13,7 +13,7 @@ Este proyecto consiste en una base de datos creada desde la PokeAPI, con informa
 ## Dependencias 
 Este proyecto utiliza las siguientes dependencias_
 
-- [opencsv](https://github.com/opencsv/opencsv): Biblioteca para leer y escribir archivos CSV en Java.
+- [Opencsv](https://github.com/opencsv/opencsv): Biblioteca para leer y escribir archivos CSV en Java.
 - [Apache Commons Lang3](https://commons.apache.org/proper/commons-lang/): Biblioteca de utilidades generales para Java.
 
 Asegúrate de tener estas dependencias instaladas antes de ejecutar el proyecto, aunque ya esten agregadas en el archivo pom.xml.

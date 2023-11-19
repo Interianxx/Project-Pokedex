@@ -47,3 +47,6 @@ Seleccione la opcion 3 ordenar a los pokemon de acuerdo a sus estadisticas. Prim
 
 Descargue el proyecto en un zip. Abre Netbeans y en la opcion de Archivo seleccione la opcion de Importar. Si no se desea instalar las dependencias manualmente use "clean and build project" para que se instalen. Por ultimo ponga a correr el metodo main.
 
+## Integrantes
+- Interian Pech Jose Alejandro [https://github.com/Interianxx].
+- Antony Kin Mier Cupul [https://github.com/Antonorz]
